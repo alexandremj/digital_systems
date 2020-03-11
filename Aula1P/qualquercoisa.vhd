@@ -28,4 +28,10 @@ begin
 		  "01" when E="0010" else
 		  "10" when E="0100" else
 		  "11";
+		  
+   with E select
+		S <= "00" when "0001", 
+		     "01" when "0010", 
+			  "10" when "0100", 
+			  "11" when others;
 end architecture;
