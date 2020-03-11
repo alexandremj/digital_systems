@@ -1,0 +1,19 @@
+Sistema computacional: sistema que une software e hardware
+SISML
+estudar implementação de uma FPGA
+
+Cyclone II
+- deprecated
+
+pode ser usada qualquer versão do Quartus na disciplina
+
+EP2C35F672C6
+
+opencores.org
+Qsys
+Nios II Software Build Tools for Eclipse
+
+pesquisar sobre std_logic e std_logic_vector
+revisar circuitos sequenciais e combinacionais
+
+boa prática: separar declaração da entidade e arquitetura
